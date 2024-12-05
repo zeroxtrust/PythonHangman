@@ -102,4 +102,6 @@ This project was inspired by resources such as:
 
 ## Author
 **Yousef Elzidani**
+
+
 <img width="253" alt="Hangman" src="https://github.com/user-attachments/assets/a54fbe28-b168-409d-8874-9798bfefcc96">
