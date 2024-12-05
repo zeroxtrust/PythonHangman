@@ -1,5 +1,5 @@
 
-# Hangman Game Project in Python
+# Hangman Game in Python
 
 ## Overview
 
