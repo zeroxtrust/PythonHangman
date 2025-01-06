@@ -1,4 +1,4 @@
-#By Yousef Elzidani
+#By ZeroTrustX
 #Version 1: B1/B2 English Words with Timer and Levels
 
 print("Welcome to the Hang man game") # Welcome message
