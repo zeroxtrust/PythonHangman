@@ -1,4 +1,4 @@
-#By Yousef Elzidani
+#By ZeroTrustX
 #Version 2: Information Technology and Cybersecurity Words with Timer and Levels
 
 
