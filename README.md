@@ -3,7 +3,7 @@
 
 ## Overview
 
-This project consists of two versions of the classic Hangman game, developed by **Yousef Elzidani**. The project was designed to offer both educational and entertaining experiences by implementing interactive gameplay with progressive challenges.
+This project consists of two versions of the classic Hangman game, developed by **ZeroTrustX**. The project was designed to offer both educational and entertaining experiences by implementing interactive gameplay with progressive challenges.
 
 ### Versions
 1. **Version 1:** Tailored for non-native English speakers, using B1/B2 vocabulary words.
@@ -101,7 +101,7 @@ This project was inspired by resources such as:
 ---
 
 ## Author
-**Yousef Elzidani**
+**ZeroTrustX**
 
 
 <img width="253" alt="Hangman" src="https://github.com/user-attachments/assets/a54fbe28-b168-409d-8874-9798bfefcc96">
