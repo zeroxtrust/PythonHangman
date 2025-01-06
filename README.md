@@ -41,7 +41,7 @@ This project consists of two versions of the classic Hangman game, developed by 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yousefelzidani/PythonHangman.git
+   git clone https://github.com/zeroxtrust/PythonHangman.git
    ```
 2. Navigate to the project directory:
    ```bash
